@@ -43,16 +43,15 @@ main {
 .header {
   max-width: 400px;
   text-align: center;
-  text-justify: distribute;
   margin-bottom: 2rem;
 }
 
 .header h1 {
-  font-size: 1.15rem;
+  font-size: 1.2rem;
 }
 
 span {
-  font-size: 1.15rem;
+  font-size: 1.2rem;
   color: var(--grayish-blue);
 }
 
@@ -61,13 +60,13 @@ span {
 }
  
  h1 {
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-weight: 600;
   color: var(--very-dark-blue);
 }
 
 p {
-  font-size: 0.75rem;
+  font-size: 0.78rem;
   font-weight: 200;
   color: var(--grayish-blue);
   padding-block: 1rem;
@@ -173,8 +172,8 @@ a {
   }
 }
 .container img {
-  width: 25%;
-  height: 25%;
+  width: 30%;
+  height: 30%;
 }
 
 @media screen and (min-width: 769px) {
@@ -186,21 +185,21 @@ a {
 
   .container {
     height: 400px;
-    max-width:  900px;
+    max-width:  1200px;
     display: flex;
     flex-direction: row;
   }
 
   .supervisor {
     margin-top: 6.25rem;
-    margin-right: 1rem;
+    margin-right: 1.5rem;
   }
   .team-builder {
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
   }
 
   .calculator {
     margin-top: 6.25rem;
-    margin-left: 1rem;
+    margin-left: 1.5rem;
   }
 }
