@@ -73,8 +73,8 @@ p {
 }
 
 .supervisor {
-    height: 200px;
-    max-width: 280px;
+    height: 180px;
+    max-width: 250px;
     padding: 17px;
     border-radius: 5px;
     border-top: 2px solid var(--cyan);
@@ -83,8 +83,8 @@ p {
 }
 
 .team-builder {
-  height: 200px;
-  max-width: 280px;
+  height: 180px;
+  max-width: 250px;
   padding: 17px;
   border-radius: 5px;
   border-top: 2px solid var(--red);
@@ -93,8 +93,8 @@ p {
 }
 
 .karma {
-  height: 200px;
-  max-width: 280px;
+  height: 180px;
+  max-width: 250px;
   padding: 17px;
   border-radius: 5px;
   border-top: 2px solid var(--orange);
@@ -103,8 +103,8 @@ p {
 }
 
 .calculator {
-  height: 200px;
-  max-width: 280px; 
+  height: 180px;
+  max-width: 250px; 
   padding: 17px;
   border-radius: 5px;
   border-top: 2px solid var(--blue);
