@@ -74,7 +74,7 @@ p {
 
 .supervisor {
     height: 200px;
-    max-width: 240px;
+    max-width: 243px;
     padding: 17px;
     border-radius: 5px;
     border-top: 2px solid var(--cyan);
@@ -84,7 +84,7 @@ p {
 
 .team-builder {
   height: 200px;
-  max-width: 240px;
+  max-width: 243px;
   padding: 17px;
   border-radius: 5px;
   border-top: 2px solid var(--red);
@@ -94,7 +94,7 @@ p {
 
 .karma {
   height: 200px;
-  max-width: 240px;
+  max-width: 243px;
   padding: 17px;
   border-radius: 5px;
   border-top: 2px solid var(--orange);
@@ -104,7 +104,7 @@ p {
 
 .calculator {
   height: 200px;
-  max-width: 240px; 
+  max-width: 243px; 
   padding: 17px;
   border-radius: 5px;
   border-top: 2px solid var(--blue);
@@ -126,7 +126,7 @@ a {
 
 .logo {
   width: auto;
-  max-height: 15px;
+  max-height: 17px;
   margin-right: 4px;
 }
 
